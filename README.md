@@ -1,45 +1,86 @@
-👋 Hi, I'm Gagan Saini
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Welcome Banner" />
+</p>
 
-🎓 3rd-year Engineering Student | 💻 Web Developer | 🚀 Aspiring Software Engineer
+# 👋 Hi, I'm Gagan Saini  
 
-I love building impactful projects that merge technology with real-world solutions. Currently, I’m working on my major project SkillAble, a freelancing platform empowering physically disabled individuals through technology.
+🎓 3rd-year **Engineering Student** | 💻 **Full-Stack Web Developer** | 🚀 **Aspiring Software Engineer @ Microsoft**  
 
-🛠️ Tech Stack
+I’m passionate about **building impactful tech solutions**, exploring **DSA**, and creating tools that make life easier. Currently, I’m working on **SkillAble**, a freelancing platform for disabled individuals.  
 
-Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+---
 
-Backend: Node.js, Express.js
+## 🚀 About Me  
+- 🌱 Learning & growing in **Full-Stack Development**  
+- 💡 Building **SkillAble** – A freelancing platform for disabled persons  
+- 🎯 Preparing for **Placements & GATE CSE**  
+- 🎥 Soon starting my **YouTube channel** to share dev knowledge  
+- 🌍 Dreaming of studying abroad to explore global opportunities  
 
-Database: MongoDB
+---
 
-Languages: C, C++, Java, JavaScript
+## 🛠️ Tech Stack  
 
-Other Interests: DSA, Problem Solving, AI-powered applications
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,java,cpp,c,git,github" />
+</p>
 
-📌 Featured Projects
+---
 
-🔹 SkillAble – A freelancing platform designed for disabled individuals with voice-controlled IDE and sign-language support.
+## 📌 Featured Projects  
+🔹 **[SkillAble](#)** – A freelancing platform for disabled persons (Voice IDE + Sign Language Recognition)  
+🔹 **[Phonomania](#)** – Online mobile store built with React  
+🔹 More projects coming soon... 🚀  
 
-🔹 Phonomania – An e-commerce website for mobile phones (React + CSS).
+---
 
-🔹 More exciting projects coming soon...
+## 📊 GitHub Stats  
 
-📈 Current Goals
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gagan-saini&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-saini&theme=radical" height="170"/>
+</p>
 
-🏆 Preparing for placements & GATE CSE
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gagan-saini&layout=compact&theme=radical" height="150"/>
+</p>
 
-📚 Improving DSA & Aptitude daily
+---
 
-🌍 Exploring study abroad opportunities
+## 🤝 Connect with Me  
 
-🎥 Starting a YouTube channel to share my learnings
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:gagansaini@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gagan-saini" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-🌐 Let's Connect
+---
 
-💼 LinkedIn
+## ⚡ Fun Fact  
 
-🐦 Twitter/X
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-📧 gagansaini@example.com
+- 🔢 I solve DSA problems daily (on a **75-day coding challenge**)  
+- 🎶 I love listening to music while coding  
+- 📸 I enjoy capturing moments and learning through experiences  
 
-✨ "Code with purpose. Build with passion."
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="200"/>
+</p>
+
+---
+
+✨ *"Code with purpose. Build with passion. Grow with consistency."* ✨
