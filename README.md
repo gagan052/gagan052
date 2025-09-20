@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hi, I'm Gagan Saini
 
-<!--
-**gagan052/gagan052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Engineering Student | 💻 Web Developer | 🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I love building impactful projects that merge technology with real-world solutions. Currently, I’m working on my major project SkillAble, a freelancing platform empowering physically disabled individuals through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Languages: C, C++, Java, JavaScript
+
+Other Interests: DSA, Problem Solving, AI-powered applications
+
+📌 Featured Projects
+
+🔹 SkillAble – A freelancing platform designed for disabled individuals with voice-controlled IDE and sign-language support.
+
+🔹 Phonomania – An e-commerce website for mobile phones (React + CSS).
+
+🔹 More exciting projects coming soon...
+
+📈 Current Goals
+
+🏆 Preparing for placements & GATE CSE
+
+📚 Improving DSA & Aptitude daily
+
+🌍 Exploring study abroad opportunities
+
+🎥 Starting a YouTube channel to share my learnings
+
+🌐 Let's Connect
+
+💼 LinkedIn
+
+🐦 Twitter/X
+
+📧 gagansaini@example.com
+
+✨ "Code with purpose. Build with passion."
