@@ -69,7 +69,6 @@ I’m passionate about **building impactful tech solutions**, exploring **DSA**,
 
 ## ⚡ Fun Fact  
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🔢 I solve DSA problems daily (on a **75-day coding challenge**)  
 - 🎶 I love listening to music while coding  
