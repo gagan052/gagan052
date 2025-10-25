@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me  
 
-- 🎓 3rd-year **Engineering Student** passionate about tech innovation  
+- 🎓 4th-year **Engineering Student** passionate about tech innovation  
 - 💻 Currently building **SkillAble**, a freelancing platform for people with disabilities  
 - 📚 Daily growth in **Full-Stack Dev, DSA & Aptitude**  
 - 🎥 Planning to start a **YouTube channel** to share what I learn  
