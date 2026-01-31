@@ -30,7 +30,8 @@
 
 # 🚀 Featured Projects  
 
-🔹 **SkillAble** – Freelancing platform for people with disabilities (Voice IDE + Sign Language support)  
+🔹 **AI Support** – A Customer Support System Using RAG + Sentiment Analysis
+🔹 **SkillAble** – Freelancing platform to Connect Freelancers with Client
 🔹 **Phonomania** – E-commerce store for mobile phones (React + CSS)  
 🔹 More coming soon…  
 
