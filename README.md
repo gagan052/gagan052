@@ -86,7 +86,7 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🚀 On a **75-Day DSA Challenge**  
+- 🚀 Completed **100-Day DSA Challenge**  
 - 🎶 Music fuels my coding  
 - 🌍 Believe in **Tech for Good**  
 - 🧩 Love solving tricky problems  
